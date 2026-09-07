@@ -1,3 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Page!!</title>
+
+    <style>
+        body {
+            background-color: #F5EFC6;
+            margin: 0;
+            padding: 40px;
+        }
+
+        h1 {
+            color: #AE5369;
+            text-align: center;
+            font-family: Helvetica;
+        }
+
+        h2 {
+            color: #D58198;
+            text-align: center;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+        }
+
+        p {
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
             font-size: 15px;
             text-align: center;
@@ -33,8 +60,11 @@
         <li>
             <a href="RetoCanvas.html">Reto Canvas</a>
         </li>
-  <li>
+         <li>
             <a href="ArteCanvas.html">Arte en Canvas</a>
+        </li>
+         <li>
+            <a href="Proyecto1.html">Proyecto Primer Parcial</a>
         </li>
     </ol>
 </body>
